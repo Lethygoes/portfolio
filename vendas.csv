@@ -1,0 +1,21 @@
+﻿ID_Venda,Data,Produto,Categoria,Quantidade,Preço_Unitario,Total_Venda
+1,2024-01-01,Notebook,Eletrônicos,1,3500,3500
+2,2024-01-02,Smartphone,Eletrônicos,2,2500,5000
+3,2024-01-03,Fone de Ouvido,Acessórios,3,150,450
+4,2024-01-04,Mouse,Acessórios,2,100,200
+5,2024-01-05,Teclado,Acessórios,1,200,200
+6,2024-01-06,Monitor,Eletrônicos,1,1200,1200
+7,2024-01-07,Câmera,Eletrônicos,1,1800,1800
+8,2024-01-08,Impressora,Eletrônicos,2,900,1800
+9,2024-01-09,Tablet,Eletrônicos,1,1100,1100
+10,2024-01-10,Carregador,Acessórios,5,80,400
+11,2024-01-11,Notebook,Eletrônicos,1,3700,3700
+12,2024-01-12,Smartphone,Eletrônicos,3,2600,7800
+13,2024-01-13,Mouse,Acessórios,2,120,240
+14,2024-01-14,Teclado,Acessórios,2,220,440
+15,2024-01-15,Monitor,Eletrônicos,1,1250,1250
+16,2024-01-16,Câmera,Eletrônicos,1,1850,1850
+17,2024-01-17,Impressora,Eletrônicos,1,950,950
+18,2024-01-18,Tablet,Eletrônicos,1,1150,1150
+19,2024-01-19,Carregador,Acessórios,4,75,300
+20,2024-01-20,Fone de Ouvido,Acessórios,2,160,320
